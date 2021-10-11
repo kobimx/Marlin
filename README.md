@@ -4,11 +4,19 @@ This is a custom FW version for my setup, with an Anet M8 and SKR board
 
 ## Credits
 
-The current Marlin dev team consists of:
+Marlin is constantly improving thanks to a huge number of contributors from all over the world bringing their specialties and talents. Huge thanks are due to [all the contributors](https://github.com/MarlinFirmware/Marlin/graphs/contributors) who regularly patch up bugs, help direct traffic, and basically keep Marlin from falling apart. Marlin's continued existence would not be possible without them.
 
- - Scott Lahteine [[@thinkyhead](https://github.com/thinkyhead)] - USA &nbsp; [Donate](http://www.thinkyhead.com/donate-to-marlin)
+## Administration
+
+Regular users can open and close their own issues, but only the administrators can do project-related things like add labels, merge changes, set milestones, and kick trolls. The current Marlin admin team consists of:
+
+ - Scott Lahteine [[@thinkyhead](https://github.com/thinkyhead)] - USA - Project Maintainer &nbsp; [![Donate](https://api.flattr.com/button/flattr-badge-large.png)](http://www.thinkyhead.com/donate-to-marlin)
  - Roxanne Neufeld [[@Roxy-3D](https://github.com/Roxy-3D)] - USA
+ - Keith Bennett [[@thisiskeithb](https://github.com/thisiskeithb)] - USA
+ - Victor Oliveira [[@rhapsodyv](https://github.com/rhapsodyv)] - Brazil
  - Chris Pepper [[@p3p](https://github.com/p3p)] - UK
+ - Jason Smith [[@sjasonsmith](https://github.com/sjasonsmith)] - USA
+ - Luu Lac [[@sjasonsmith](https://github.com/sjasonsmith)] - USA
  - Bob Kuhn [[@Bob-the-Kuhn](https://github.com/Bob-the-Kuhn)] - USA
  - Erik van der Zalm [[@ErikZalm](https://github.com/ErikZalm)] - Netherlands &nbsp; [![Flattr Erik](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ErikZalm&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
 
